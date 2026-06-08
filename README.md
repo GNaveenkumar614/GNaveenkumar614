@@ -1,16 +1,151 @@
-## Hi there 👋
+<!-- SECTION A: ANIMATED HEADER -->
+<div align="center">
 
-<!--
-**GNaveenkumar614/GNaveenkumar614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=GNaveenkumar614&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-Here are some ideas to get you started:
+<!-- Wave GIF Greeting -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Naveen Kumar
+
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=DevOps+%26+ML+Engineer;MLOps+%7C+Cloud+Infrastructure+%7C+LLM+Systems;Building+Scalable+Production+ML+Pipelines;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;Real-Time+Inference+%26+Agentic+AI+Workflows" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnavinkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GNaveenkumar614)
+
+</div>
+
+---
+
+<!-- SECTION B: ABOUT ME -->
+## 🚀 About Me
+
+I'm a **DevOps & ML Engineer** with hands-on experience designing and operating cloud platforms, building end-to-end MLOps pipelines, and deploying production-grade AI systems at scale. I bridge the gap between machine learning research and real-world infrastructure — making models fast, reliable, and observable.
+
+- 🔧 Currently building **end-to-end MLOps pipelines** with Docker, AWS ECS/Fargate, GitHub Actions & Terraform at Harvest AI (Berlin)
+- 🧠 Passionate about **Generative AI, Agentic Workflows, RAG Systems** and LLM applications in production
+- 🌍 Based in **Berlin, Germany** — open to exciting MLOps, Data Engineering & Cloud roles
+- 🎯 Expertise in **Real-Time Inference Systems, Scalable ML Pipelines, Low-Latency Serving**
+- 📚 Always learning — currently deepening skills in **Kubernetes (CKA), Advanced LLM Systems & Cloud Architecture**
+
+---
+
+<!-- SECTION C: TECH STACK -->
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 ML / AI Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
+
+### 📊 Data & Distributed Systems
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### 🚀 Deployment & Monitoring
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white)
+
+### 🧠 Generative AI & LLM
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+<!-- SECTION D: SOCIAL MEDIA LINKS -->
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnavinkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-GNaveenkumar614-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GNaveenkumar614)
+[![Email](https://img.shields.io/badge/Email-naveen.gorre%40ue--germany.de-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveen.gorre@ue-germany.de)
+
+</div>
+
+---
+
+<!-- SECTION E: GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GNaveenkumar614&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNaveenkumar614&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GNaveenkumar614&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- SECTION F: GITHUB TROPHIES -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GNaveenkumar614&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+</div>
+
+---
+
+<!-- SECTION G: ACTIVITY GRAPH -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GNaveenkumar614&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+<!-- SECTION H: FOOTER -->
+## 🤝 Let's Connect!
+
+<div align="center">
+
+> *"Engineering reliable, scalable ML systems that bridge research and production."*
+
+I'm always open to **collaborating on MLOps, Cloud Infrastructure, LLM Systems, and Data Engineering** projects.
+Feel free to reach out — let's build something impactful together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnavinkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GNaveenkumar614)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
