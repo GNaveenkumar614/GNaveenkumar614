@@ -30,9 +30,9 @@ I'm a **DevOps & ML Engineer** with hands-on experience designing and operating 
 
 - 🔧 Currently building **end-to-end MLOps pipelines** with Docker, AWS ECS/Fargate, GitHub Actions & Terraform at Harvest AI (Berlin)
 - 🧠 Passionate about **Generative AI, Agentic Workflows, RAG Systems** and LLM applications in production
-- 🌍 Based in **Berlin, Germany** — open to exciting MLOps, Data Engineering & Cloud roles
+- 🌍 Based in **Berlin, Germany** open to exciting MLOps, Data Engineering & Cloud roles
 - 🎯 Expertise in **Real-Time Inference Systems, Scalable ML Pipelines, Low-Latency Serving**
-- 📚 Always learning — currently deepening skills in **Kubernetes (CKA), Advanced LLM Systems & Cloud Architecture**
+- 📚 Always learning currently deepening skills in **Kubernetes (CKA), Advanced LLM Systems & Cloud Architecture**
 
 ---
 
@@ -104,7 +104,7 @@ I'm a **DevOps & ML Engineer** with hands-on experience designing and operating 
 > *"Engineering reliable, scalable ML systems that bridge research and production."*
 
 I'm always open to **collaborating on MLOps, Cloud Infrastructure, LLM Systems, and Data Engineering** projects.
-Feel free to reach out — let's build something impactful together!
+Feel free to reach out  let's build something impactful together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnavinkumar)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GNaveenkumar614)
