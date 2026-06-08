@@ -96,6 +96,74 @@ I'm a **DevOps & ML Engineer** with hands-on experience designing and operating 
 ---
 
 
+<!-- SECTION E2: FEATURED PROJECTS -->
+## 🛠️ Featured Projects
+
+<div align="center">
+
+| 🚀 | Project | Description | Tech Stack | Impact |
+|:---:|:--------|:------------|:-----------|:------:|
+| 🔥 | [**AIOps Intelligent Monitoring**](https://github.com/GNaveenkumar614/Aiop_Monitoring) | End-to-end AIOps stack with **AI-powered anomaly detection** & **Prophet-based forecasting** for proactive operations | `Python` `Prometheus` `Grafana` `Prophet` `PromQL` | 📉 Replaced static thresholds |
+| 🧠 | [**Unsupervised Multimodal RAG**](https://github.com/GNaveenkumar614/Project) | Unified **multimodal RAG framework** eliminating human-labeled preference data via unsupervised contrastive evidence scoring & adaptive agentic loops | `Python` `CLIP` `FAISS` `LangChain` `VLMs` `Jupyter` | 🎯 Zero-label preference learning |
+| ⚙️ | [**End-to-End MLOps Pipeline**](https://github.com/GNaveenkumar614/Mlops) | Production-grade **MLOps system** with full lifecycle management — training, experiment tracking, orchestration, deployment & web serving | `Python` `MLflow` `Docker` `Jupyter` `REST API` | 📦 8 commits · Full lifecycle |
+
+</div>
+
+### 📌 Project Highlights
+
+<table>
+<tr>
+<td width="33%">
+
+#### 🔥 AIOps Monitoring
+[![AIOps](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/GNaveenkumar614/Aiop_Monitoring)
+[![Lang](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/GNaveenkumar614/Aiop_Monitoring)
+
+**Key Features:**
+- 🤖 AI-powered anomaly detection engine
+- 📈 Prophet time-series forecasting
+- 🚨 Signal-driven alerting (replaces static rules)
+- 📊 PromQL dashboards & observability stack
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-%E2%86%92-0e75b6?style=for-the-badge&logo=github)](https://github.com/GNaveenkumar614/Aiop_Monitoring)
+
+</td>
+<td width="33%">
+
+#### 🧠 Multimodal RAG
+[![RAG](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/GNaveenkumar614/Project)
+[![Lang](https://img.shields.io/badge/Jupyter-99%25-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/GNaveenkumar614/Project)
+
+**Key Features:**
+- 🔗 CLIP-based multimodal retrieval
+- 🔄 Adaptive agentic reasoning loop
+- ⚖️ Contrastive evidence scoring
+- 🤖 Zero human-labeling required
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-%E2%86%92-E25A1C?style=for-the-badge&logo=github)](https://github.com/GNaveenkumar614/Project)
+
+</td>
+<td width="33%">
+
+#### ⚙️ MLOps Pipeline
+[![MLOps](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/GNaveenkumar614/Mlops)
+[![MLflow](https://img.shields.io/badge/MLflow-Tracked-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://github.com/GNaveenkumar614/Mlops)
+
+**Key Features:**
+- 📊 MLflow experiment tracking & artifacts
+- 🚀 Model deployment via web-service
+- 🎼 Orchestration pipeline built-in
+- 📦 Full lifecycle: data → model → serve
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-%E2%86%92-623CE4?style=for-the-badge&logo=github)](https://github.com/GNaveenkumar614/Mlops)
+
+</td>
+</tr>
+</table>
+
+---
+
+
 <!-- SECTION F: FOOTER -->
 ## 🤝 Let's Connect!
 
