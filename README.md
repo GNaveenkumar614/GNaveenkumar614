@@ -95,18 +95,6 @@ I'm a **DevOps & ML Engineer** with hands-on experience designing and operating 
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GNaveenkumar614&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-
-
-</div>
-
----
-
 
 <!-- SECTION F: FOOTER -->
 ## 🤝 Let's Connect!
