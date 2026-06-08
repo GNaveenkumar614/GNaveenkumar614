@@ -101,39 +101,14 @@ I'm a **DevOps & ML Engineer** with hands-on experience designing and operating 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=GNaveenkumar614&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNaveenkumar614&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GNaveenkumar614&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GNaveenkumar614&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
----
-
-<!-- SECTION G: ACTIVITY GRAPH -->
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GNaveenkumar614&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-<!-- SECTION H: FOOTER -->
+<!-- SECTION F: FOOTER -->
 ## 🤝 Let's Connect!
 
 <div align="center">
