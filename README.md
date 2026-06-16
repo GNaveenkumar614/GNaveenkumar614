@@ -165,7 +165,7 @@ I'm a **DevOps & ML Engineer** with hands-on experience designing and operating 
 
 
 <!-- SECTION F: FOOTER -->
-## 🤝 Let's Connect!
+## 🤝 Let's Connect!..
 
 <div align="center">
 
