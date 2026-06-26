@@ -26,7 +26,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🚀 About Me
 
-I'm a **DevOps & ML Engineer** with hands-on experience designing and operating cloud platforms, building end-to-end MLOps pipelines, and deploying production-grade AI systems at scale. I bridge the gap between machine learning research and real-world infrastructure — making models fast, reliable, and observable.
+I'm a **DevOps & ML Engineer** with hands-on experience designing and operating cloud platforms, building end-to-end MLOps pipelines, and deploying production grade AI systems at scale. I bridge the gap between machine learning research and real-world infrastructure making models fast, reliable, and observable.
 
 - 🔧 Currently building **end-to-end MLOps pipelines** with Docker, AWS ECS/Fargate, GitHub Actions & Terraform at Harvest AI (Berlin)
 - 🧠 Passionate about **Generative AI, Agentic Workflows, RAG Systems** and LLM applications in production
